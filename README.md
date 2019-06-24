@@ -5,3 +5,5 @@ My First Node.js Application with JSON Data Storing
 2- How to delete a Note
 3- How to list a Note
 4- How to read a Note
+
+Before testing the app in the terminal do : npm install to generate the node-modules folder
